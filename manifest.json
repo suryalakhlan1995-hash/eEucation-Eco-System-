@@ -1,0 +1,23 @@
+
+{
+  "short_name": "Surya Sarthi",
+  "name": "Surya Education Sarthi",
+  "description": "Full AI Smart School Management Software",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 200' fill='none'%3E%3Cpath d='M100 20L100 45M100 135L100 160M160 90L135 90M65 90L40 90M142.4 47.6L128.3 61.7M71.7 118.3L57.6 132.4M142.4 132.4L128.3 118.3M71.7 47.6L57.6 61.7' stroke='%23f59e0b' stroke-width='12' stroke-linecap='round' opacity='0.8'/%3E%3Ccircle cx='100' cy='90' r='35' fill='%23f59e0b'/%3E%3C/svg%3E",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 200' fill='none'%3E%3Cpath d='M100 20L100 45M100 135L100 160M160 90L135 90M65 90L40 90M142.4 47.6L128.3 61.7M71.7 118.3L57.6 132.4M142.4 132.4L128.3 118.3M71.7 47.6L57.6 61.7' stroke='%23f59e0b' stroke-width='12' stroke-linecap='round' opacity='0.8'/%3E%3Ccircle cx='100' cy='90' r='35' fill='%23f59e0b'/%3E%3C/svg%3E",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "theme_color": "#f59e0b",
+  "orientation": "portrait"
+}

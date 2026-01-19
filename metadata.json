@@ -1,0 +1,9 @@
+{
+  "name": "EDUCATION SARTHI SMART OS",
+  "description": "The definitive AI educational ecosystem for Mangmat. Featuring Turbo-Mode tutors, Veo-Video Generators, and White-Label Franchise control.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
